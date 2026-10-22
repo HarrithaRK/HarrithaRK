@@ -39,3 +39,40 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence and Data Science st
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🎓 1. EduGlow — Student Dropout Prediction System
+**Technologies:** Python | Machine Learning | XGBoost
+
+- Developed an XGBoost model to identify students who may be at risk of dropping out.
+- Used student-related information to support early identification and data-driven intervention.
+
+### 🌱 2. AgriShakthi — ML-Based Crop Recommendation System
+**Technologies:** Python | Machine Learning
+
+- Developed a crop recommendation system using regional weather, soil, and land-related information.
+- Designed the system to recommend the top three suitable crops for a region.
+
+### 📊 3. Sales & UPI Transaction Data Analysis
+**Technologies:** Power BI | Data Analytics | Excel
+
+- Analyzed sales and UPI transaction data to identify trends, patterns, and useful business insights.
+- Created interactive Power BI dashboards to present findings and support data-driven decisions.
+
+### 📈 4. Student Depression Data Analysis
+**Technologies:** SQL | Tableau | Data Analytics
+
+- Used SQL to explore patterns and relationships in student depression-related data.
+- Created Tableau dashboards to visualize trends and insights from the dataset.
+
+## 💼 Internship Experience
+
+### Python Developer Intern — CodeAlpha
+**Domain:** Python Programming | Online Internship
+
+- Practiced Python programming by developing hands-on mini-projects.
+- Built projects including Hangman Game, Guess the Word, Stock Portfolio Tracker, and a Simple Chatbot.
+- Strengthened problem-solving skills and applied Python fundamentals through practical implementation.
+
+**Repository:** [View my CodeAlpha Internship Projects](PASTE-YOUR-CODEALPHA-REPOSITORY-LINK-HERE)
