@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Harritha R! 👋
 
-<!--
-**HarrithaRK/HarrithaRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student | Python Developer | Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an Artificial Intelligence and Data Science student passionate about Python programming, machine learning, and data analytics. I enjoy building practical projects that solve real-world problems and turning data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
+- 🐍 Interested in Python programming and Data Analytics.
+- 📊 Enjoy building ML-based applications and interactive data dashboards.
+- 🌱 Continuously learning new technologies and improving my problem-solving skills.
+- 🤝 Open to collaborating on interesting projects and learning opportunities.
