@@ -75,4 +75,4 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence and Data Science st
 - Built projects including Hangman Game, Guess the Word, Stock Portfolio Tracker, and a Simple Chatbot.
 - Strengthened problem-solving skills and applied Python fundamentals through practical implementation.
 
-**Repository:** [View my CodeAlpha Internship Projects](PASTE-YOUR-CODEALPHA-REPOSITORY-LINK-HERE)
+**Repository:** [View my CodeAlpha Internship Projects]https://github.com/HarrithaRK/CodeAlpha_PythonProgramming
