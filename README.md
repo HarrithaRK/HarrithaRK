@@ -53,6 +53,7 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence and Data Science st
 
 - Developed a crop recommendation system using regional weather, soil, and land-related information.
 - Designed the system to recommend the top three suitable crops for a region.
+  To view my project click the link https://github.com/HarrithaRK/SproutzMind-PRO
 
 ### 📊 3. Sales & UPI Transaction Data Analysis
 **Technologies:** Power BI | Data Analytics | Excel
