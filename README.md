@@ -53,13 +53,14 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence and Data Science st
 
 - Developed a crop recommendation system using regional weather, soil, and land-related information.
 - Designed the system to recommend the top three suitable crops for a region.
-  To view my project click the link https://github.com/HarrithaRK/SproutzMind-PRO
+- To view my project click the link https://github.com/HarrithaRK/SproutzMind-PRO
 
 ### 📊 3. Sales & UPI Transaction Data Analysis
 **Technologies:** Power BI | Data Analytics | Excel
 
 - Analyzed sales and UPI transaction data to identify trends, patterns, and useful business insights.
 - Created interactive Power BI dashboards to present findings and support data-driven decisions.
+-  To view my Sales Data Analysis Click on the Link https://github.com/HarrithaRK/PowerBI-Sales-data-analytics 
 
 ### 📈 4. Student Depression Data Analysis
 **Technologies:** SQL | Tableau | Data Analytics
